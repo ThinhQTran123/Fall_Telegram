@@ -25,7 +25,7 @@ bot.onText(/start|game/, (msg) => {
                 [{
                     text: 'Play Game Here',
                      web_app: {
-				     url: "https://thaonm0501.github.io/testwebapp/"
+				     url: "https://thinhqtran123.github.io/Fall_Telegram/"
 					}
                 }]
             ]
